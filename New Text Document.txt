@@ -1,0 +1,6 @@
+Link Google collabs : 
+https://colab.research.google.com/drive/1ckBPE3gEUkrKDx8LcrxEEWLwjT6xD7DQ?usp=sharing
+
+run Versi web
+
+streamlit run app.py
